@@ -6,6 +6,9 @@
 
 #include <iostream>
 #include <string>
+
+/* Personal libraries */
+
 #include "nameComplete.h"
 
 /* Macros definition */

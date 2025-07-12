@@ -32,7 +32,12 @@ Debes tener instalado **Git**:
    ```bash
    cd "Plantilla-C++"
    ```
-5. Abre Visual Studio Code:
+5. Borra el contenido git:
+
+   ```bash
+   rm -rf .git
+   ```
+6. Abre Visual Studio Code:
 
    ```bash
    code .
@@ -51,6 +56,7 @@ Plantilla-C++/
 ├── libs/           # Librerías de terceros o propias
 ├── .vscode/        # Configuración de tareas y depuración
 │   └── tasks.json
+├── notes/          # Parte de la documentación
 ├── README.md       # Este archivo
 └── .gitignore      # Ignora archivos no deseados en Git
 ```
