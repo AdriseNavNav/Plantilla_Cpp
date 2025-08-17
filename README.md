@@ -35,7 +35,7 @@ Debes tener instalado **Git**:
 5. Borra el contenido git:
 
    ```bash
-   rm -rf .git
+   Remove-Item -Recurse -Force .git
    ```
 6. Abre Visual Studio Code:
 
