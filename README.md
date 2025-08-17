@@ -25,12 +25,12 @@ Debes tener instalado **Git**:
 3. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/AdriseNavNav/Plantilla_Cpp.git
+   git clone https://github.com/AdriseNavNav/Plantilla_Cpp.git "Proyecto Cpp"
    ```
 4. Entra a la carpeta del proyecto:
 
    ```bash
-   cd "Plantilla-C++"
+   cd "Proyecto Cpp"
    ```
 5. Borra el contenido git:
 
